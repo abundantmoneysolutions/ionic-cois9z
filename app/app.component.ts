@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
-
+import {LandingPage} from '../pages/landing/landing';
 
 @Component({
   templateUrl: 'app.html'
