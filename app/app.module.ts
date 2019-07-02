@@ -10,8 +10,7 @@ import { HomePage } from '../pages/home/home';
   declarations: [
     MyApp,
     ContactPage,
-    HomePage,
-    TabPage
+    HomePage
   ],
   imports: [
     BrowserModule,
