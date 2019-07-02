@@ -6,7 +6,7 @@ import { Platform } from 'ionic-angular';
   templateUrl: 'app.html'
 })
 export class MyApp {
-  rootPage:any = TabsPage;
+  rootPage:any = LandingPage;
 
   constructor(platform: Platform) {
     platform.ready().then(() => {
